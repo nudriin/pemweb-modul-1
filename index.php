@@ -35,7 +35,5 @@
         </div>
     </section>
 </body>
-
 <script src="./script.js"></script>
-
 </html>
